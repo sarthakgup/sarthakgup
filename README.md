@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## 🌱 Education -- 
-    University of Texas at Austin   (Austin, TX)
+    ** University of Texas at Austin **   (Austin, TX)
     * B.S. Electrical & Computer Engineering, May 2024 Grad Month
     * 4.0 GPA
     
