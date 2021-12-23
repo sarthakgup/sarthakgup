@@ -14,15 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages --
+## Software Skills --
 *Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, and more!*
 
 
 
-
-
-
+## 🌱 Education -- 
+    University of Texas at Austin   (Austin, TX)
+    * B.S. Electrical & Computer Engineering, May 2024 Grad Month
+    * 4.0 GPA
+    
+    Nikola Tesla STEM High School   (Redmond, WA)
+    * High School Diploma, Class of 2020
+    
+    
+    
+---
 
 📫 How to reach me: sarthakgupta@outlook.com
 
-> [LINKEDIN: sarthakgup02](https://www.linkedin.com/in/sarthakgupta02)
+[LinkedIn: sarthakgup02](https://www.linkedin.com/in/sarthakgupta02)
