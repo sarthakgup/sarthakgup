@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Software Skills --
+## 🔭 Software Skills --
 *Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, and more!*
 
 
