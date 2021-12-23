@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 *Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, and more!*
 
 
-> 📫 How to reach me: sarthakgupta@outlook.com
 
-[LINKEDIN: sarthakgup02](www.linkedin.com/in/sarthakgupta02)
+
+
+
+
+📫 How to reach me: sarthakgupta@outlook.com
+
+> [LINKEDIN: sarthakgup02](https://www.linkedin.com/in/sarthakgupta02)
