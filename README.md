@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: sarthakgupta@outlook.com
 
-[LinkedIn: sarthakgup02](https://www.linkedin.com/in/sarthakgupta02)
+---
+
+> [LinkedIn: sarthakgup02](https://www.linkedin.com/in/sarthakgupta02)
