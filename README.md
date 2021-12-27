@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ## 🌱 Education
 [University of Texas at Austin](https://www.utexas.edu/)   (Austin, TX)
-* B.S. Electrical & Computer Engineering, May 2024 Grad Month
+* B.S. Electrical & Computer Engineering
 * 4.0 GPA
     
 [Nikola Tesla STEM High School](https://tesla.lwsd.org/)   (Redmond, WA)
-* High School Diploma, Class of 2020
+* High School Diploma
 
 ---
 
