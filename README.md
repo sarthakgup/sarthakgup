@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 ## 🔭 Software Skills
 *Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, and more!*
 
+⚡ ***Currently learning iOS app development***
+
+---
+
 
 ## 🌱 Education
 [University of Texas at Austin](https://www.utexas.edu/)   (Austin, TX)
