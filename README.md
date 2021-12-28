@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 
 > [LinkedIn: sarthakgup02](https://www.linkedin.com/in/sarthakgupta02)
 
+> [HackerRank: sarthakgupta1](https://www.hackerrank.com/sarthakgupta1)
+        - Python Cerfication (HackerRank), Dec 2021
 
 > [Personal Site: sarthakgup.github.io](https://sarthakgup.github.io/)
