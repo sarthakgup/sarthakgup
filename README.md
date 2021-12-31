@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 *Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, and more!*
 
 ⚡ ***Currently learning iOS app development (Swift)***
+
 ** 1 iOS App published on App Store so far (updated 12/30/21)**
 
 ---
