@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🔭 Software Skills
 *Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, and more!*
 
-⚡ ***Currently learning iOS app development (Swift)***
+⚡ ***Currently learning iOS app development (Swift & React)***
 
 ** 1 iOS App published on App Store so far (updated 12/30/21)**
 
