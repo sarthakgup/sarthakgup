@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 Software Skills
-*Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, and more!*
+*Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, mySQL and more!*
 
 ⚡ ***Currently learning iOS app development (Swift & React)***
 
