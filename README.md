@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
 
 
-
+---
 
 
 ⚡ ***Currently learning iOS app development (Swift & ReactJS)***
