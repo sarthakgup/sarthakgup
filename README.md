@@ -5,6 +5,7 @@
 ### I'm Sarthak Gupta, a rising Junior Computer Engineering major at the University of Texas at Austin!
 
 
+[![LinkedIn: sarthak](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakgupta02)](https://www.linkedin.com/in/sarthakgupta02)
 
 <!--
 **sarthakgup/sarthakgup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,9 +56,7 @@ Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
 
 > [LinkedIn: sarthakgup02](https://www.linkedin.com/in/sarthakgupta02)
 
-<a href="https://www.linkedin.com/in/sarthakgupta02">
-  <img align="left" alt="Sarthak's LinkedIn" width="22px" src="![image](https://user-images.githubusercontent.com/16374350/149673315-fdd20dbb-ae18-40aa-9e54-5b472c8d22a3.png)" />
-</a>
+
 
 > [HackerRank: sarthakgupta1](https://www.hackerrank.com/sarthakgupta1)
         - Python Cerfication (HackerRank), Dec 2021
