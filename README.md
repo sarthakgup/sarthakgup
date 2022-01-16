@@ -5,7 +5,7 @@
 ### I'm Sarthak Gupta, a rising Junior Computer Engineering major at the University of Texas at Austin!
 
 
-[![LinkedIn: sarthak](https://img.shields.io/badge/-Sarthak LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakgupta02)](https://www.linkedin.com/in/sarthakgupta02)
+[![LinkedIn: sarthak](https://img.shields.io/badge/-SarthakLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakgupta02)](https://www.linkedin.com/in/sarthakgupta02)
 
 <!--
 **sarthakgup/sarthakgup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
