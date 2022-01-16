@@ -50,11 +50,10 @@ Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
 
 📫 How to reach me: sarthakgupta@outlook.com
 
----
 
 [![LinkedIn: sarthak](https://img.shields.io/badge/-SarthakGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakgupta02)](https://www.linkedin.com/in/sarthakgupta02)
 
-
+---
 
 > [HackerRank: sarthakgupta1](https://www.hackerrank.com/sarthakgupta1)
         - Python Cerfication (HackerRank), Dec 2021
