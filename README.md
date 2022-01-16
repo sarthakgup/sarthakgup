@@ -32,9 +32,9 @@ Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
 
 ⚡ ***Currently learning iOS app development (Swift & ReactJS)***
 
-** 1 iOS App published on App Store so far (updated 12/30/21)**
+**1 iOS App published on App Store so far (updated 12/30/21)**
 
-*Currently developing 4 iOS working with concepts such as AR, databases, location services, music, and more...
+*Currently developing 4 iOS working with concepts such as AR, databases, location services, music, and more...*
 
 ---
 
