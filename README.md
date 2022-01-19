@@ -45,6 +45,7 @@ Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
     
 [Nikola Tesla STEM High School](https://tesla.lwsd.org/)   (Redmond, WA)
 * High School Diploma
+* Coursework including Advanced Data Structures in Java, Startup Development, and Advanced Calculus
 
 ---
 
