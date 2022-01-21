@@ -33,6 +33,7 @@ Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
 
 ** 1 iOS App published on App Store so far (updated 12/30/21)**
 
+
 *Currently developing 4 iOS working with concepts such as AR, databases, location services, music, and more...*
 
 ---
@@ -45,7 +46,7 @@ Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
     
 [Nikola Tesla STEM High School](https://tesla.lwsd.org/)   (Redmond, WA)
 * High School Diploma
-* Coursework including Advanced Data Structures in Java, Startup Development, and Advanced Calculus
+* Coursework including Advanced Data Structures in Java, Startup Development & Development, and Advanced Calculus
 
 ---
 
