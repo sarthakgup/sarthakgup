@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 ## 🔭 Software Skills
 *Java, Python, C, ARM Assembly, Linux Shell, C++, JavaScript, HTML/CSS, mySQL and more!*
 
-Courses Include: Python Programming, Software Design and Implementation, Circuit Theory, and more
-
 
 Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
 
