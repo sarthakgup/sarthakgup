@@ -61,3 +61,10 @@ Certifications: Python (LinkedIn, HackerRank), C++ (LinkedIn)
         - Python Cerfication (HackerRank), Dec 2021
 
 > [Personal Site: sarthakgup.github.io](https://sarthakgup.github.io/)
+
+
+
+
+
+
+last updated 1/26/22
