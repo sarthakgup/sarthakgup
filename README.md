@@ -2,7 +2,7 @@
 
 
 
-### I'm Sarthak Gupta, a Junior Computer Engineering major at the University of Texas at Austin!
+### I'm Sarthak Gupta, a Senior Computer Engineering major at the University of Texas at Austin!
 
 
 <!--
